@@ -11,6 +11,7 @@ lovedancer's code samples about btc, bitcoin or eth, binance
 2. 不保证代码无BUG，欢迎上报BUG并提出优化建议
 3. 不保证每一期视频均有代码，没有提供代码也仅仅可能是作者懒
 
-"youtube ID：@lovedancer9"
-"twitter ID: @lovedancer9"
+**youtube ID：@lovedancer9**
+
+**twitter ID: @lovedancer9**
 
